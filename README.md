@@ -10,8 +10,8 @@ This repository documents my daily tasks, hands-on learning, and professional re
 
 | Day         | Task Title                                      | Status  | Link to Report
 _______________________________________________________________________________________________________________________________________
-| Day 01      | Local Network Reconnaissance & Port Scanning    | ✅ Done | [Day 01 Report](./Day-01-Port-Scanning/README.md) |
-| Day 02      | [Next Task Name will go here]                   | ⏳ Pending | *(Will be updated soon)* |
+| Day 01      | Local Network Reconnaissance & Port Scanning    | ✅ Done | [Day 01 Report](./Day-1-Port-Scanning/README.md) |
+| Day 02      | Analyze a Phishing Email Sample.                | ✅ Done | [Day 02 Report](./Day-02-Phishing-Analysis/README.md) |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 #✨Professional Commitment
