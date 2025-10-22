@@ -1,0 +1,19 @@
+<p><span>FROM </span>
+<a href="mailto:pattersje@gosiloam.com" target="_blank" rel="noopener noreferrer">pattersje@gosiloam.com</a>
+<br><br>
+<span>Dear Berkeley Team,</span>
+<br></p>
+<p><span>We are upgrading our email security to better protect your account. To </span>
+<span>ensure a seamless transition, please accept the new terms and conditions.</span>
+<br><br>
+<span>Accept New Terms</span><br>
+<span>hxxps://</span>its.fasoonline.com/berkeley.edu/&amp;adfs/lsXXXXXXX.html</p>
+<p><br><span>If you have any questions or concerns, please don't hesitate to reach out </span>
+<span>to our Help Desk team.</span><br></p>
+<p><span>Thank you for your cooperation.</span></p>
+<p><br><span>Best regards,</span><br>
+<span>University of California, Berkeley</span><br>
+<span>University of California, Berkeley | </span>
+<a href="https://berkeley.edu/" target="_blank" rel="noopener noreferrer">https://berkeley.edu/</a>
+</p>
+
