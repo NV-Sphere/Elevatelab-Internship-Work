@@ -1,0 +1,11 @@
+PS C:\Users\Asus> Test—NetConnection 127.0.0.1 —Port 23
+WARNING: TCP connect to (127.0.0.1 : 23) failed
+
+ComputerName             : 127.0.0.1
+RemoteAddress            : 127.0.0.1
+RemotePort               : 23
+InterfaceAIias           : Loopback Pseudo—Interface 1
+SourceAddress            : 127.0.0.1
+PingSucceeded            : True
+PingRepIyDetaiIs (RTT)   : 0 ms
+TcpTestSucceeded         : False
