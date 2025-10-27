@@ -1,4 +1,4 @@
-## 🎯Task 05: Network Traffic Analysis (Packet Forensics)
+## 🎯Day 05: Network Traffic Analysis (Packet Forensics)
 ## Date: 26 October 2025
 
 ### **The Objective:**
