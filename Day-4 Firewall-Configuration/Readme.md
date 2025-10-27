@@ -45,7 +45,7 @@ target application.
 
 ---
 
-##❓ Interview Questions: Firewall Management
+## ❓Interview Questions: Firewall Management
 
 #### 1. What is a firewall?
 A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on security rules. It acts as a barrier between a trusted internal network and untrusted external 
@@ -79,3 +79,5 @@ activity.
 #### 8. What is NAT in firewalls?
 NAT (Network Address Translation) is a function often performed by boundary firewalls or routers. It translates a single, private internal IP address like your PC's local IP into a single, public external IP
 address, allowing multiple internal devices to share one public connection, which helps hide the internal network.
+
+---
