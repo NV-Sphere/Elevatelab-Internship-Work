@@ -35,8 +35,9 @@ Critical Permissions Found:
 -> Read and change all your data on all websites (Maximum privilege).
 -> Read data you copy and paste (High risk for credential theft).
 
+-----------------------------------------------------------------------------------------------------------------------
+
 3) REMEDIATION ACTION LOG (Target B Removal)
 Action Taken: Removed 1 Unused Extension.
 Extension Name: AIPRM for ChatGPT
 Reason for Removal: Redundant/Unused. Removing non-essential tools reduces the overall attack surface and potential for supply-chain risks.
-
