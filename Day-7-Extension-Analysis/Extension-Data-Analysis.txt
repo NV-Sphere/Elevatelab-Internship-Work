@@ -1,0 +1,42 @@
+TASK 07: BROWSER EXTENSION ANALYSIS -(22 Extensions)
+
+1) INITIAL EXTENSION LIST 
+
+1. Ad Blocker: Stands AdBlocker
+2. AIPRM for ChatGPT
+3. Bookmark Llama - Shared Bookmarks
+4. Chrome Remote Desktop
+5. Controls for Instagram Videos
+6. daily.dev | The homepage developers deserve
+7. DuckDuckGo Search & Tracker Protection
+8. FoxyProxy
+9. Google Dictionary (by Google)
+10. Google Docs Offline
+11. Grammarly: AI Writing Assistant and Grammar Checker App
+12. Magical: Text Expander & Autofill
+13. McAfee Anti-tracker
+14. McAfee® WebAdvisor
+15. NoteGPT: YouTube Summary, Chat with AI Assistant, ChatGPT DeepSeek Claude
+16. OneTab
+17. Screen Recorder
+18. SquareX: Be Secure, Anonymous, Private Online
+19. Surfshark VPN Extension
+20. Unhook - Remove YouTube Recommended & Shorts
+21. VT4Browsers
+22. WebChatGPT: ChatGPT with internet access
+
+-----------------------------------------------------------------------------------------------------------------------
+
+2) CRITICAL RISK IDENTIFICATION (Target A Analysis)
+
+The following extension requires the highest level of system access, flagged as a major risk:
+Extension Name: Magical: Text Expander & Autofill
+Critical Permissions Found:
+-> Read and change all your data on all websites (Maximum privilege).
+-> Read data you copy and paste (High risk for credential theft).
+
+3) REMEDIATION ACTION LOG (Target B Removal)
+Action Taken: Removed 1 Unused Extension.
+Extension Name: AIPRM for ChatGPT
+Reason for Removal: Redundant/Unused. Removing non-essential tools reduces the overall attack surface and potential for supply-chain risks.
+
