@@ -17,6 +17,7 @@ This repository documents my daily tasks, hands-on learning, and professional re
 | **Day 04** | Firewall Configuration and Testing | ✅ Done | [View Report](./Day-4-Firewall-Configuration/Readme.md) |
 | **Day 05** | Network Traffic Analysis (Wireshark) | ✅ Done | [View Report](./Day-5-Packet-Analysis/Readme.md) |
 | **Day 06** | Password Strength Analysis and Best Practices | ✅ Done | [View Report](./Day-6-Password-Analysis/Readme.md) |
+| **Day 07** | Identify and Remove Suspicious Browser Extensions | ✅ Done | [View Report](./Day-7-Extension-Analysis/Readme.md) |
 
 ---
 
