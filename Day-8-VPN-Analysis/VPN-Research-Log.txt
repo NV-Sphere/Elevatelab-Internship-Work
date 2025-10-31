@@ -1,0 +1,25 @@
+TASK 08: WINDSCRIBE VPN RESEARCH LOG
+
+1. IP AND LATENCY COMPARISON 
+ORIGINAL CONNECTION:
+  Location: India - Nashik / Gwalior
+  Original IP: [REDACTED for Confidentiality - 106.222.X.X]
+  Average Latency (Ping OFF): 33.8 ms
+
+VPN CONNECTION:
+  Server Location: United States - Atlanta/Dallas
+  VPN Assigned IP: 23.94.48.123
+  Average Latency (Ping ON): 280.8 ms
+  Conclusion: VPN adds significant latency (approx. 247ms) due to encryption overhead and physical distance, validating the secure tunnel.
+
+2. ENCRYPTION & PRIVACY FEATURES
+A. ENCRYPTION STANDARDS:
+   Windscribe uses industry-leading encryption protocols, including WireGuard (ChaCha20 for symmetric encryption) and OpenVPN (AES-256-GCM cipher with SHA512 auth).
+   Support is also provided for Perfect Forward Secrecy.
+
+B. NO-LOGS POLICY:
+   Windscribe maintains a strict No-Logs Policy. They do not store connection logs, IP timestamps, or session logs that can personally identify a user.
+   They have complied with **zero** law enforcement requests due to lack of relevant data.
+
+C. JURISDICTION:
+   The company operates out of Canada, providing a strong legal system that does not mandate that VPN providers log user activity.
